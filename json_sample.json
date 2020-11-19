@@ -1,0 +1,398 @@
+{
+  "ko": [
+    {
+      "title": "헤시오드",
+      "name": "박민우",
+      "url": "minupark.cargo.site",
+      "description": "헤시오드는 로마 제국의 명각 글자에 영감을 받은 현대적 세리프 글꼴이다. 끌로 깎은 듯한 세리프와 날카로운 획 처리가 단정한 인상을 준다. 고전적이면서도 예스럽지 않은 인상으로 신화나 서사시, 판타지 작품 등에 잘 어울린다. 제목용, 본문용 스타일을 지원한다.",
+      "query": "minwoo"
+    },
+    {
+      "title": "서울특별시 마포구 와우산로 48 604호",
+      "name": "이민지",
+      "url": "curielee.cargo.site",
+      "description": "『서울특별시 마포구 와우산로 48 604호』는 출판사 curiousworks의 소재지이자 저자의 거주지인 책이다. 이 주소는 책이 만들어지는 공간과 실제 삶의 공간이라는 두 기능을 소화한다. 이곳에서 출판사, 저자, 집 안 사물들에 어떤 변화가 생겼는지 궁금하다면, 방문하여 읽어보아라.",
+      "query": "curie"
+    },
+    {
+      "title": "루스",
+      "name": "이수지",
+      "url": "suzylee.cargo.site",
+      "description": "루스'는 휴머니스트 세리프 서체이다. 직선적인 인상에 필체를 반영한 표정을 가지며 과하지 않은 획대비로 영화 자막이나 문학 인용에 쓰이기 적합하다.",
+      "query": "suzy"
+    },
+    {
+      "title": "OBILIVIATE",
+      "name": "주지함",
+      "url": "zhihanzhu.cargo.site",
+      "description": "",
+      "query": "zhihan"
+    },
+    {
+      "title": "180도",
+      "name": "남정현",
+      "url": "junghyunnam.cargo.site",
+      "description": "‘나는 사랑하고 증오한다. 좋아하는데 싫어한다. 하고 싶지만 하기 싫다.’\n이건 180도 다른 감정을 품고 살아가는 너와 나의 모습이다. 그리고 감정들의 솔직한 목소리이다.",
+      "query": "junghyun"
+    },
+    {
+      "title": "회고록",
+      "name": "김민아",
+      "url": "minakim.cargo.site",
+      "description": "그분은 꿈과 낭만이 넘치는 대학 문턱을 들어서시며 10대 때 꿈꾸던 일들을 현실로 이루어낼 수 있는 전지전능한 대학생의 힘을 얻으셨다. 찬양과 경배의 마음을 담아 그분의 신으로서의 면모와 품위를 담아내니, 모두의 귀감이 되어 영원히 영광을 받으실 것이다.",
+      "query": "mina"
+    },
+    {
+      "title": "Common Dish",
+      "name": "유화정",
+      "url": "hwajeongyoo.cargo.site",
+      "description": "요리라는 행위가 일상 속 루틴으로 자리 잡은 이들의 이야기에 귀기울여, 평범한 그들의 요리에 담긴 크고 작은 이야기를 들어보자.",
+      "query": "hwajeong"
+    },
+    {
+      "title": "SOOUVENIR",
+      "name": "박소연",
+      "url": "soyeonpark.cargo.site",
+      "description": "수집은 한 개인이 시간을 파악함과 동시에 인간 고유의 기억 행위이다. \n우리의 감정은 기억과 밀접하게 연관되어 있고, 감정을 일으키는 사건들은 긍정적이든 부정적이든,\n더욱 더 기억에 더 오래 남는다. 정서적인 기억이 수집의 대상이 되면 어떨까? \nSOOUVENIR은 기억의 심연에 가라앉은 각자의 추억을 오브제로 제작한다.",
+      "query": "soyeon"
+    },
+    {
+      "title": "Shut Up and Show",
+      "name": "강미리",
+      "url": "mirikang.cargo.site",
+      "description": "무언가 써지거나 그려져있는 물체들의 그림자만 보게될 것이다. 물체들은 아무것도 말하지 않게 된다. 당신도 아무것도 알게 되지 않으며 단지 보게만 된다. 이는 대단하지도 않지만 만연하지도 않은 경험이다. 그래도 아무것도 알아내지 못한 채 흘러가는 시간이 너무나 아까울 수 있다. 그럴 땐 상단의 재생 버튼을 누르면 된다. 음성으로 (역량이 닿는 데까지)옮겨놓은 그 '무언가'가 재생될 것이고, 물체를 대신해 알려줄 것이다.",
+      "query": "miri"
+    },
+    {
+      "title": "점 선 면",
+      "name": "남지수",
+      "url": "jisoonam.cargo.site",
+      "description": "옷은 점선면으로 이루어져있는 형태이다. 이번 실험을 통해 옷을 의복이 아닌 조형예술로서 바라봐 새로운 시각을 제시하고자 한다.",
+      "query": "jisoo"
+    },
+    {
+      "title": "뚝딱뚝딱",
+      "name": "정재빈",
+      "url": "jaebinjeong.cargo.site",
+      "description": "전형적으로 기대하고 있는 틀에서 벗어난 것들을 마주할 때 느끼는 낯섦과 당황스러움은 호기심과 즐거움으로 연결된다. 이를 엉성하고 모자란 것들에게 적용하면 귀여움이라는 감정이 더해진다. 뚝딱뚝딱은 온통 엉성하고 귀여운 것들에 대한 작업이다.",
+      "query": "jaebin"
+    },
+    {
+      "title": "A Song for Europa by Jóhann Jóhannsson",
+      "name": "김세현",
+      "url": "sehyunkim.cargo.site",
+      "description": "일정 단위의 소리는 결합해 음악적 모티프가 된다. 모티프는 반복과 변주를 통해 의미를 확장하고서 음악이 된다. 나는 음악의 모티프를 찾아 시각적 모티프로 변환한다. 그리고 반복과 변주 양상에 맞춰 시각적으로 결합시킨다. 여러 장의 이미지로 구성된 그것은 이미 볼 수 있는 음악이다. 나는 또한 반복과 변주를 유형화해 여러 장의 이미지를 하나의 이미지로 만든다. 이러한 방식으로 음악에서 시간은 한 장으로 압축된다.",
+      "query": "sehyun"
+    },
+    {
+      "title": "4의세계",
+      "name": "노경태",
+      "url": "kyungtaeroh.cargo.site",
+      "description": "1. 4차원을 인지하기 위해서는 3차원의 공간에서 시간의 축으로부터 독립된 존재가 되어야힌다.\n2. 미시세계에서 전자는 불연속적으로 운동을 하면서 시공간의 개념이 무의미해진다.\n3. 우리는 죽으면 물리적,화학적으로 해체되며 입자의 존재로 나아간다.",
+      "query": "kyungtae"
+    },
+    {
+      "title": "DARE!",
+      "name": "조현승",
+      "url": "hyunseungcho.cargo.site",
+      "description": "\"보이는 대로 보지 않는다.\"\n입체적인 시선으로 세상을 바라보며, 새로운 관점을 제시하는 출판 브랜드",
+      "query": "hyunseung"
+    },
+    {
+      "title": "물고기의 반려인 관찰기",
+      "name": "민하람",
+      "url": "harammin.cargo.site",
+      "description": "반려어가 바라본 세상.",
+      "query": "haram"
+    },
+    {
+      "title": "Don't kill my vibe",
+      "name": "김예샘",
+      "url": "yesaemkim.cargo.site",
+      "description": "앨리스가 \"어느 정도의 시간이 영원이지?\" 라고 물으니 \"어떤 때는 1초만으로도 영원일 수 있어.\"하고 하얀 토끼가 대답한다.",
+      "query": "yesaem"
+    },
+    {
+      "title": "읽기 위한 희곡",
+      "name": "이선호",
+      "url": "sunholee.cargo.site",
+      "description": "읽기 위한 희곡은 공연을 오롯이 텍스트로 옮겨오려는 시도이다. 지면 위의 텍스트와 이미지는 무대 위에서의 모든 움직임을 대변하며, 독자의 임의로 건너뛰거나 이전으로 돌아가는 것은 불가능하다. 폐쇄된 공간 안에서 모든 순간에 집중해야 한다. 그리고 읽기가 끝났을 때, 텍스트는 독자의 기억 속에만 희미하게 남는다.",
+      "query": "sunho"
+    },
+    {
+      "title": "대학생활 노선도",
+      "name": "황다예",
+      "url": "dayeehwang.cargo.site",
+      "description": "기록을 남기는 것은 마음 속에 역을 짓는 것과 같다. 아주 보잘 것 없고 시시콜콜한 기록이라도 일단 남기면 역이 지어진다. 기록이 없다면 정차할 수 없다. 지나쳐버린다. 역을 만들수록 마음이 갈 수 있는 곳이 늘어난다. 역이 지어진 곳은 많은 것들이 모여들어 조금씩 자란다. 대학생활 4년동안 지은 365개의 역에 이름을 붙여주었다.",
+      "query": "dayeeh"
+    },
+    {
+      "title": "특수동물 사진관",
+      "name": "강지원",
+      "url": "jeewonkang.cargo.site",
+      "description": "강아지와 고양이를 위한 사진관은 존재하지만 특수 반려동물을 위한 사진관은 존재하지 않는다. 특수 반려동물을 키우는 사람도 반려 동물의 사진을 추억으로 남길 수 있는 곳이 있었으면 한다.",
+      "query": "jeewon"
+    },
+    {
+      "title": "옵스큐리어스 영화제",
+      "name": "김지우",
+      "url": "jiukim.cargo.site",
+      "description": "공포는 알 수 없는 미지의 대상으로부터 기인한다. 역설적이게도, 이 알 수 없음은 우리의 호기심을 자극하고 미지의 대상에게 우리를 끌어들인다. 옵스큐리어스 영화제는 공포와 호기심, 이 양가적인 감정을 공포영화라는 매체를 통해 탐구해본다.",
+      "query": "jiu"
+    },
+    {
+      "title": "Open the window",
+      "name": "신혜원",
+      "url": "hyewonshin.cargo.site",
+      "description": "쉬고 있다는 인식과 함께 휴식시간을 보내면 양질의 회복을 얻을 수 있다. 'Open the window'는 쉼을 인식할 수 있게 도와주면서 휴식이 필요할 때 바로 열어볼 수 있는 모니터 속 창문이다.",
+      "query": "hyewon"
+    },
+    {
+      "title": "몸이 없는 세계",
+      "name": "이희은",
+      "url": "heeeunlee.cargo.site",
+      "description": "우리는 몸이라는 공통 분모가 있기에 서로의 고통을 이해하고 기쁨에 공감할 수 있다. 그러나 그 모양새가 다르다는 이유로 쉽게 차별하고 판단한다. 만약, 그 모습이 사라졌을때 우리는 어떻게 남들과 관계맺을 수 있을까? 몸이 사라져버리길 바란, 누군가의 꿈속에서 시작하는 평범한 사람들의 이야기.",
+      "query": "heeeun"
+    },
+    {
+      "title": "눈에 띄지 않지만, 계속 찾게 되는 것.",
+      "name": "안민석",
+      "url": "minseokahn.cargo.site",
+      "description": "우리 주변에는 눈에 띄지 않지만, 계속 찾게 되는 것들이 있다. 단순한 형태지만 저마다의 나음과 다름에서 나오는 매력이 있는 것들은 조용히 우리 곁에서 오래도록 가치를 유지한다. 아카이브 스토어 “Q2.5\"는 다양한 영역에서 이런 눈에 띄지 않지만 계속 찾게 되는 것들을 소개하고, 나아가 지속성 있는 생활상을 제안한다.",
+      "query": "minseok"
+    },
+    {
+      "title": "Stolen",
+      "name": "문석진",
+      "url": "seokjinmoon.cargo.site",
+      "description": "지금 장난감을 가지고 논다면 어렸을 때처럼 가슴뛰게 놀 수 있는가? 우리는 왜 더 이상 어릴 적처럼 놀 수 없는걸까. 우리의 동심은 빼앗겼다. 동심을 빼앗아 자신들의 이익을 챙기는 집단이 있다. 그 집단에 대한 브랜딩이다.",
+      "query": "seokjin"
+    },
+    {
+      "title": "Hello, Goodbye, World!",
+      "name": "민정은",
+      "url": "jeongeunmin.cargo.site",
+      "description": "“Hello, World!”는 인간과 컴퓨터의 소통을 위한 프로그래밍 언어의 대표적인 예제이자, 디지털이라는 새로운 세상에 대한 선언, 감탄, 그리고 인사였다. 그런데 그곳은 과연 우리가 계속해서 살아갈 수 있는 세상일까. 이제는 조심스레 다시 안녕을 고해본다. 이번의 인사는 “Goodbye!”가 되길 바라며.",
+      "query": "jeongeun"
+    },
+    {
+      "title": "720",
+      "name": "배채원",
+      "url": "chaewonbae.cargo.site",
+      "description": "세일러들은 목적지를 정하고 배를 움직인다. 하지만 같은 방향을 비행기로 타면 더 빨리 갈수 있는데 \n왜 굳이 배를 타고 갈까? 세일링의 매력은 바로 목적지로 향하는 과정입니다.\n과정: 바람을 사용하는 전략, 거친 파도 헤엄칠수 있는 능력, 불안정한 상황 극복: \n우리의 삶을 잘 표현한다.",
+      "query": "chaewon"
+    },
+    {
+      "title": "칵테일 추천 어플",
+      "name": "이서윤",
+      "url": "seoyoonlee.cargo.site",
+      "description": "달콤한, 상큼한, 때로는 씁쓸한 맛으로 칵테일은 우리에게 멋진 경험을 선사한다. 하지만 칵테일의 종류가 너무 많아 사람들은 칵테일과 친해지기까지 어려움을 겪는다. 사용자의 매일의 기분과 느낌에 따라 어울리는 칵테일을 추천해 주어, 초심자도 쉽게 칵테일을 즐길 수 있도록 도와주는 어플리케이션이다.",
+      "query": "seoyoon"
+    },
+    {
+      "title": "뒤틀린 이상",
+      "name": "최다인",
+      "url": "dainchoi.cargo.site",
+      "description": "<Distorted Utopia>는 모든 것이 충족되는 이상세계가 아닌, 부정적인 억압의 이면을 드러내는 곳을 이상으로 설정하며 경험과 꿈, 무의식 속의 이야기들이 의식 밖으로 드러낸다.",
+      "query": "dain"
+    }
+  ],
+  "en": [
+    {
+      "title": "Hesiod",
+      "name": "Minwoo Park",
+      "url": "minupark.cargo.site",
+      "description": "Hesiod is a contemporary interpretation of the inscriptional capitals of the Roman Empire. Its chiseled serif and crisp outline give a classic, but neat and up-to-date look which makes it perfect for myths, epics, and fantasy pieces. It includes display, text style to provide such editorial needs.",
+      "query": "minwoo"
+    },
+    {
+      "title": "The Address",
+      "name": "Curie Lee",
+      "url": "curielee.cargo.site",
+      "description": "‘The Address’ is a book that exists as the location of press curiousworks and author’s residence. This ad dress practices two functions: space where books are made and space of real life. If you're curious about what's happened to curiousworks, author, and things in this address, visit and read.",
+      "query": "curie"
+    },
+    {
+      "title": "Lux",
+      "name": "Suzy Lee",
+      "url": "suzylee.cargo.site",
+      "description": "lux' is humanist serif typeface. It has a straight face that reflects handwriting and is suitable for use in movie subtitles and literary quotations with a contrast that is not excessive.",
+      "query": "suzy"
+    },
+    {
+      "title": "OBILIVIATE",
+      "name": "Zhu Zhihan",
+      "url": "zhihanzhu.cargo.site",
+      "description": "",
+      "query": "zhihan"
+    },
+    {
+      "title": "180 Degree",
+      "name": "Junghyun Nam",
+      "url": "junghyunnam.cargo.site",
+      "description": "‘I love it, but I hate it. I want to, but I don't want to.’\nThis is what you and I are living with ‘180 degrees’ different emotions. And it's the honest voice of emotions.",
+      "query": "junghyun"
+    },
+    {
+      "title": "Memoirs",
+      "name": "Mina Kim",
+      "url": "minakim.cargo.site",
+      "description": "Entering the threshold of the university full of dreams and romance, He gained the power of an almighty university student who can achieve whatever teenager dream. With praise and adoration, here is the dignity and glory of His life as a god, He shall take the highest honor.",
+      "query": "mina"
+    },
+    {
+      "title": "Common Dish",
+      "name": "Hwajeong Yoo",
+      "url": "hwajeongyoo.cargo.site",
+      "description": "There are people whose act of cooking became 'daily routine'. Let's listen to the special stories of ordinary people in their cooking.",
+      "query": "hwajeong"
+    },
+    {
+      "title": "SOOUVENIR",
+      "name": "Soyeon Park",
+      "url": "soyeonpark.cargo.site",
+      "description": "Collection is a way for people to grasp time and people's memories.\nEmotional events, positive or negative, it remains in my memory longer than events don't. \nWhat if emotional memory becomes the object of collection?\nSOOUVENIR creates an object sinks into the abyss of memory.",
+      "query": "soyeon"
+    },
+    {
+      "title": "Shut Up and Show",
+      "name": "Miri Kang",
+      "url": "mirikang.cargo.site",
+      "description": "You will only see the shadows of objects that have something written or drawn on. Objects don't say anything. You don't know anything, you just see. This isn't great, but it's not a prevalent experience. Still, the time passing without knowing anything can be a waste. In that case, just press the play button at the top. That'something' transferred by voice (until the ability to reach) will be reproduced and will inform on behalf of the object.",
+      "query": "miri"
+    },
+    {
+      "title": "POINT LINE PLANE",
+      "name": "Jisoo Nam",
+      "url": "jisoonam.cargo.site",
+      "description": "Clothes are made up point, line and segament. <Point Line Segment> presents a new perspective of clothing by looking at clothes as a formative art.",
+      "query": "jisoo"
+    },
+    {
+      "title": "Ttukttak",
+      "name": "Jaebin Jeong",
+      "url": "jaebinjeong.cargo.site",
+      "description": "The unfamiliar and embarrassment that you feel when you encounter things that are typically out of the box of expectations leads to curiosity and enjoyment. Applying this to sloppy and deficient things adds to the feeling of cuteness. Ttukttak is work about sloppy and cute things.",
+      "query": "jaebin"
+    },
+    {
+      "title": "A Song for Europa by Jóhann Jóhannsson",
+      "name": "Sehyun Kim",
+      "url": "sehyunkim.cargo.site",
+      "description": "A certain unit of sound combines to become a musical motif. Motif expands its meaning through repetition and variation, becoming a music. I find the motif of music and transform it into a visual motif. And visually combine the visual motif to visualise the pattern of repetition and variation. Consisting of several images, it is already music that can be seen. I also typify repetition and variation to make several images into one image. In this way, time in music is compressed into one page.",
+      "query": "sehyun"
+    },
+    {
+      "title": "",
+      "name": "Kyungtae Roh",
+      "url": "kyungtaeroh.cargo.site",
+      "description": "To recognize 4dimension, we needed to be independent with time. In microworld, Quantum exists as probabilistic existence and it is independent with time and space. After death, human divided constantly with endless physical, chemical, biologycal ways and become quantum existence.",
+      "query": "kyungtae"
+    },
+    {
+      "title": "DARE!",
+      "name": "Hyunseung Cho",
+      "url": "hyunseungcho.cargo.site",
+      "description": "\"Do not see as it appears.\"\nA publishing brand that looks at the world from diverse perspectives and presents a new viewpoint.",
+      "query": "hyunseung"
+    },
+    {
+      "title": "Companion Obervations by Fish",
+      "name": "Haram Min",
+      "url": "harammin.cargo.site",
+      "description": "",
+      "query": "haram"
+    },
+    {
+      "title": "Don't kill my vibe",
+      "name": "Yesaem Kim",
+      "url": "yesaemkim.cargo.site",
+      "description": "How long is forever? Sometimes, just one second.",
+      "query": "yesaem"
+    },
+    {
+      "title": "Drama To Read",
+      "name": "Sunho Lee",
+      "url": "sunholee.cargo.site",
+      "description": "‘Drama To Read’ is a try to intactly translate performance into text. The text and images represent all actions and movements on stage. You can’t skip or go back. You have to fully concentrate to every moment in a closed space. After reading, the text will only remain in readers’ blurred memory.",
+      "query": "sunho"
+    },
+    {
+      "title": "Campus Life Map",
+      "name": "Dayee Hwang",
+      "url": "dayeehwang.cargo.site",
+      "description": "making a record is like building a station in your mind. Even if it is trivial record, the station will be built once it is left behind. You can't stop without a record. You can't help but pass by. The more stations you create, the more places you can go. Where the station is built, many things gather and grow little by little. I named 365 stations that I built during my four years in college.",
+      "query": "dayeeh"
+    },
+    {
+      "title": "Special Animal Photo Studio",
+      "name": "Jeewon Kang",
+      "url": "jeewonkang.cargo.site",
+      "description": "There are photo studios for dogs and cats, but no photo studios for special pets. I hope there will be a place where people with special pets can take pictures of their pets as memories.",
+      "query": "jeewon"
+    },
+    {
+      "title": "Obscurious Film Festival",
+      "name": "Jiu Kim",
+      "url": "jiukim.cargo.site",
+      "description": "Fear stems from the obscure and the unknwon. Paradoxically, this obscure nature yields curiosity and draws us to the unknown. Obscurious Film Festival explores the ambivalent emotion of fear and curisoity through the means of horror cinema.",
+      "query": "jiu"
+    },
+    {
+      "title": "Open the window",
+      "name": "Hyewon Shin",
+      "url": "hyewonshin.cargo.site",
+      "description": "If you spend your break time with the perception that you are resting, you can get a good recovery. 'Open the Window' is a window in the monitor that helps you recognize rest and opens it when you need rest.",
+      "query": "hyewon"
+    },
+    {
+      "title": "S-TOPIA",
+      "name": "Heeeun Lee",
+      "url": "heeeunlee.cargo.site",
+      "description": "We could understand and empathize with each other because we have bodies as a common ground. However, Its appearances make prejudice easily. If no one has appearance to judge, how would we relate to others? It is just a story about ordinary people from someone’s dream.",
+      "query": "heeeun"
+    },
+    {
+      "title": "Unnoticed, but Kept Looking",
+      "name": "Minseok Ahn",
+      "url": "minseokahn.cargo.site",
+      "description": "There are things around us that are unnoticed, but kept looking. These things are simple in form but attractive from their own self, and are quietly valued by us for a long time. Archive store \"Q25\" introduces these things in various areas, and further suggests a sustainable lifestyle.",
+      "query": "minseok"
+    },
+    {
+      "title": "Stolen",
+      "name": "Seokjin Moon",
+      "url": "seokjinmoon.cargo.site",
+      "description": "If you play with your toys now, can you be as excited as you were when you were younger? Why can't we play like we were young anymore? Our children's hearts have been robbed. There are groups that take advantage of their children's hearts. It's branding for that group.",
+      "query": "seokjin"
+    },
+    {
+      "title": "Hello, Goodbye, World!",
+      "name": "Jeongeun Min",
+      "url": "jeongeunmin.cargo.site",
+      "description": "“Hello, World!” is a representative example of programming language for human-computer communication, and a declaration, admiration, and greeting for the new world, digital. But is it a world where we can continue to live? Now I carefully greet again, hoping this greeting will be “Goodbye!”.",
+      "query": "jeongeun"
+    },
+    {
+      "title": "720",
+      "name": "Chaewon Bae",
+      "url": "chaewonbae.cargo.site",
+      "description": "Sailing requires you to have a set destination. However, the beauty of sailing lies not in speed, \nbut in the journey of enjoying the vast ocean water, the salty morning breeze, and coming together as a team to navigate turbulent waves.",
+      "query": "chaewon"
+    },
+    {
+      "title": "Cocktail recommendation APP",
+      "name": "Seoyoon Lee",
+      "url": "seoyoonlee.cargo.site",
+      "description": "With its various taste, cocktails give us wonderful experiences. However, there are so many types of cocktails that people have difficulty getting close to them. It is an application that recommends cocktails that go well with users' daily moods, making it easy for beginners to enjoy cocktails.",
+      "query": "seoyoon"
+    },
+    {
+      "title": "Distorted Utopia",
+      "name": "Dain Choi",
+      "url": "dainchoi.cargo.site",
+      "description": "<Distorted Utopia> is not the ideal world in which everything is satisfied. By setting the ideal world as a place where negative oppression is revealed, it presents stories of experience, dreams and unconsciousness.",
+      "query": "dain"
+    }
+  ]
+}
