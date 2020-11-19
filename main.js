@@ -60,7 +60,7 @@ const keepLang = params => {
 
 
 //get JSON data
-/*
+
 function getData(params){
   return new Promise((resolve, reject)=>{
     $.getJSON("json_sample.json",function(data) {
@@ -70,7 +70,7 @@ function getData(params){
     })
 });
 }
-*/
+
 
 //create item div
 function createDiv(data){
@@ -194,16 +194,16 @@ validParamCheck(currParam)
       p.lang ? removeLang(p) : keepLang(p)
       }
     )
-    //.catch(getData)
-    //.then(getData)
-    .catch(()=>{
+    .catch(getData)
+    .then(getData)
+    /*.catch(()=>{
       dataSheet = data[currLang]
       return dataSheet;
     })
     .then(()=>{
       dataSheet = data[currLang]
       return dataSheet;
-    })
+    })*/
     .then(init)
     .then(createDiv)
     .then(fillTagText)
