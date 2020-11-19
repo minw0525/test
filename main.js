@@ -220,10 +220,7 @@ const reFill = function(paramString) {
     paramString? r1(paramString) : currLang = 'ko', r2(paramString);
   })
   .then(validParamCheck)
-  .catch(()=>{
-    dataSheet = data[currLang]
-    return dataSheet;
-  })
+  .catch(getData)
   .then(init)
   .then(fillTagText)
   .then(()=>{
